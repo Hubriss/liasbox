@@ -43,6 +43,10 @@ export default function ChristmasGift() {
       src: "https://i.postimg.cc/m2rLg8YX/Ikea-toolbox-hack.jpg",
       alt: "Box being used to store and organize trading cards",
     },
+    {
+      src: "https://i.postimg.cc/8cQKs1nd/Wooden-art.jpg",
+      alt: "Box being used to store and organize trading cards",
+    }
   ]
 
   return (
